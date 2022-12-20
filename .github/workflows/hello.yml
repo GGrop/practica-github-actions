@@ -13,4 +13,3 @@ jobs:
           echo "Hola giuli"
       - name: dime la fecha
         run: date
-      - run: ls -l
